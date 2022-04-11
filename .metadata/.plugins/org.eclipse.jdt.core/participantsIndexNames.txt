@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\Public\Desktop\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4092740860.index
+\com.ms.calc\src\main\java
+C:\Users\Public\Desktop\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1095626150.index
+\com.ms.calc\src\main\java
